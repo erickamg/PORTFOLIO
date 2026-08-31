@@ -36,7 +36,7 @@ portfolio/
 ├── style.css
 ├── script.js
 ├── README.md
-└── assets/
+└── Assets/
     ├── Edds.PNG
     ├── neals.PNG
     ├── StudyMate.PNG
